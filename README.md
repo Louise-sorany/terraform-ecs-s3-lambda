@@ -2,7 +2,7 @@
 
 
 
-## Descrição do Desafio
+## Descrição do Projeto
 Este projeto é a solução para a implementaçao de uma arquitetura completa na AWS aplicando boas práticas de Infraestrutura como Código (Iac) e automaçao.
 
 O objetivo é demonstrar habilidades e competências técnicas relacionadas a **Cloud Computing** e **DevOps**, utilizando **Terraform** para provisionar recursos na AWS, de forma escalável segura e reprodutível.
