@@ -1,11 +1,11 @@
-# Desafio Técnico 1
+# Infraestrutura como Código na AWS com Terraform
 
-DreamSquad - Teste Técnico de Engenharia
+
 
 ## Descrição do Desafio
-Este projeto é a solução para o **Teste Técnico** proposto pela DreamSquad para a vaga de Engenharia (Cloud/DevOps).
+Este projeto é a solução para a implementaçao de uma arquitetura completa na AWS aplicando boas práticas de Infraestrutura como Código (Iac) e automaçao.
 
-O objetivo é demonstrar habilidades e competências técnicas relacionadas a **Cloud Computing** e **DevOps**, utilizando **Terraform** para provisionar recursos na AWS.
+O objetivo é demonstrar habilidades e competências técnicas relacionadas a **Cloud Computing** e **DevOps**, utilizando **Terraform** para provisionar recursos na AWS, de forma escalável segura e reprodutível.
 
 # Serviço 1 - Aplicação FrontEnd Estática
 
@@ -167,7 +167,7 @@ Essa solução garante uma rotina automatizada e confiável para inserção diá
 ## 📂 Estrutura do Projeto
 
 ```bash
-Dreamsquad-desafio
+terraform-aws-infra
 ├── 01-frontend               # Frontend estático
 │   ├── app
 │   │   └── src              # Código fonte do frontend
