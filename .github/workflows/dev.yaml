@@ -1,7 +1,13 @@
 name: "Terraform Deploy - Dev"
 
 on:
-  push:
+  push: 
+branches: 
+     -main
+     paths-ignore:
+      - 'README.md'
+      - '**/*.md'
+ 
 
 permissions:
   id-token: write
