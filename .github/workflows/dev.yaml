@@ -21,4 +21,4 @@ jobs:
     secrets:
       aws-assume-role-arn: ${{ secrets.AWS_ASSUME_ROLE_ARN_DEV }}
       aws-account-id: ${{ secrets.AWS_ACCOUNT_ID_DEV }}
-``
+
